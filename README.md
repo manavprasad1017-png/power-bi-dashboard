@@ -23,8 +23,7 @@ This project is a Power BI dashboard created to analyze sales performance, profi
 ## KPIs
 - Total Sales
 - Total Profit
-- Total Orders
-- Average Sales
+  
 
 ---
 
